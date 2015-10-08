@@ -1562,13 +1562,13 @@
 			}
 
 		.wrapper.style1 {
-			background: #e97770 url("images/overlay.png");
+			background: #2689F3 url("images/overlay.png");
 			color: #eee;
 			color: rgba(255, 255, 255, 0.75);
 		}
 
 			.wrapper.style1 .title {
-				background: #e97770 url("images/overlay.png");
+				background: #2689F3 url("images/overlay.png");
 				color: #fff;
 			}
 
@@ -1728,7 +1728,6 @@
 			color: inherit;
 			text-decoration: none;
 		}
-
 /* Highlights */
 
 	#highlights .highlight {
